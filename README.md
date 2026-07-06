@@ -63,6 +63,7 @@ Create a final worksheet named **`HR Dashboard`**. Your dashboard must include:
 - Save your completed workbook as **`HR_Capstone_Completed_[YourName].xlsx`**.
 - Ensure your **formulas are intact** — do not paste as values over your calculations, so your methodology can be graded.
 - Optional: Add a view of your **`HR Dashboard`** and insights to your repo as readme to improve your portfolio.
+- Submit your repository through the form [here](https://forms.office.com/r/xeYnafVvWV)
 
 # Deadline
 
