@@ -46,7 +46,7 @@ The analysis uncovered several findings that can support strategic human resourc
 
 - Employees classified as Resigned recorded the highest average performance scores, suggesting that high-performing talent may be leaving the organization. Although additional investigation is required to determine the underlying causes, this trend highlights a potential retention challenge.
 
-![Perfomance_Status](images/Perfomance_status.png)
+![Performance_Status](images/Performance_Status.png)
 
 - The projected annual bonus payout of approximately 496,463 demonstrates a significant investment in performance-based compensation, with higher-performing employees receiving the largest share of bonus allocations.
 
