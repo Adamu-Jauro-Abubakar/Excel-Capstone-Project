@@ -29,6 +29,7 @@ Additionally, the workforce's average tenure of 6.44 years reflects a moderate l
 The analysis uncovered several findings that can support strategic human resource management.
 
 - The organization employs 150 staff members distributed across six departments, providing a balanced workforce for operational activities.
+
 ![Total Employee chart](images/Total_Employees.png)
 
 - The overall attrition rate is approximately 22%, indicating that more than one in five employees are no longer active. This level of turnover may increase recruitment costs, reduce productivity, and contribute to the loss of institutional knowledge if not effectively managed.
@@ -51,49 +52,47 @@ The analysis uncovered several findings that can support strategic human resourc
 
 ![Bonus](images/Bonus.png)
 
-Employees have an average tenure of 6.44 years, reflecting a workforce with moderate organizational experience and valuable institutional knowledge.
+- Employees have an average tenure of 6.44 years, reflecting a workforce with moderate organizational experience and valuable institutional knowledge.
+
+![Average Tenure](images/Average_Tenure.png)
 
 ---
 
-## Phase 3: Exploratory Data Analysis (Pivot Tables)
-
-Create a new worksheet named **`Analysis`** and insert Pivot Tables to answer the following business questions:
-
-1. **Headcount & Salary** — What is the total headcount and average salary per Department?
-
-2. **Attrition Rate** — What is the Attrition Rate by Department? *(Calculate the percentage of 'Left' employees vs. total employees per department.)*
-
-3. **Performance by Status** — How does the average Performance Score differ between Active and Left employees?
-
-4. **Bonus Payout** — What is the total Bonus Payout projected for this year, broken down by Performance Band?
+## Business Recommendations
+Based on the findings, several recommendations can enhance workforce management and organizational performance.
+- Strengthen employee retention initiatives by identifying and addressing factors contributing to employee turnover.
+- Conduct targeted exit interviews and engagement surveys to better understand why high-performing employees leave the organization.
+- Review departmental compensation structures periodically to ensure fairness, competitiveness, and alignment with organizational objectives.
+- Continue leveraging performance-based reward systems while regularly evaluating their effectiveness in motivating employees and retaining top talent.
+- Integrate the dashboard into routine HR reporting to support ongoing workforce monitoring, strategic planning, and evidence-based decision-making.
 
 ---
 
-## Phase 4: Dashboard Creation
-
-Create a final worksheet named **`HR Dashboard`**. Your dashboard must include:
-
-- A clean, professional layout *(remove gridlines and use a consistent color palette)*.
-- At least **3 KPI Cards** at the top — e.g., Total Employees, Average Salary, Overall Attrition Rate.
-- Relevant charts for your visuals.
-- **Interactive Elements** — Add Slicers and connect them to all charts so the dashboard is fully dynamic.
+## Conclusion
+This project demonstrates the complete analytics lifecycle—from transforming a raw and inconsistent dataset into a reliable source of business intelligence to communicating actionable insights through an interactive dashboard.
+Beyond developing technical proficiency in Microsoft Excel, the project highlights the importance of combining data preparation, analytical thinking, and visualization to solve real business problems. The resulting dashboard provides HR decision-makers with a practical tool for monitoring workforce performance, evaluating employee retention, planning compensation strategies, and supporting long-term organizational growth.
 
 ---
 
-## Submission Guidelines
-
-- Save your completed workbook as **`HR_Capstone_Completed_[YourName].xlsx`**.
-- Ensure your **formulas are intact** — do not paste as values over your calculations, so your methodology can be graded.
-- Optional: Add a view of your **`HR Dashboard`** and insights to your repo as readme to improve your portfolio.
-- Submit your repository through the form [here](https://forms.office.com/r/xeYnafVvWV)
-
-# Deadline
-
-## Submission Deadline:
-**12:00 Noon — Sunday, 5th July, 2026**
-
-⚠️ **Late submissions may attract penalties. No excuses will be accepted.**
+## Tools and Technologies
+### Software
+- Microsoft Excel
+- Excel Features
+- Advanced Formulas
+- XLOOKUP
+- Pivot Tables
+- Pivot Charts
+- Slicers
 
 ---
 
-# Good Luck
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- HR Analytics
+- Dashboard Design
+- Data Visualization
+- KPI Development
+- Business Intelligence
+- Data Storytelling
