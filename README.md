@@ -29,12 +29,13 @@ Additionally, the workforce's average tenure of 6.44 years reflects a moderate l
 The analysis uncovered several findings that can support strategic human resource management.
 
 - The organization employs 150 staff members distributed across six departments, providing a balanced workforce for operational activities.
-![Total Employee chart](image/Total_Employess.png)
+![Total Employee chart](images/Total_Employees.png)
 
 - The overall attrition rate is approximately 22%, indicating that more than one in five employees are no longer active. This level of turnover may increase recruitment costs, reduce productivity, and contribute to the loss of institutional knowledge if not effectively managed.
-![Attrition Rate Chart](image/Attritio_Rate.png)
+![Attrition Rate Chart](images/Attritio_Rate.png)
 
 - The Information Technology department represents the largest workforce with 36 employees, while Finance has the smallest workforce with 17 employees. These differences provide useful context for workforce planning and resource allocation.
+![Employee Distribution Chart](images/Total_Employees.png)
 
 Finance records the highest average salary (≈ 87,939), whereas Operations records the lowest average salary (≈ 79,787). These differences may reflect varying job complexity, departmental responsibilities, and compensation policies.
 Employees classified as Resigned recorded the highest average performance scores, suggesting that high-performing talent may be leaving the organization. Although additional investigation is required to determine the underlying causes, this trend highlights a potential retention challenge.
