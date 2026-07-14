@@ -32,18 +32,23 @@ The analysis uncovered several findings that can support strategic human resourc
 ![Total Employee chart](images/Total_Employees.png)
 
 - The overall attrition rate is approximately 22%, indicating that more than one in five employees are no longer active. This level of turnover may increase recruitment costs, reduce productivity, and contribute to the loss of institutional knowledge if not effectively managed.
-![Attrition Rate Chart](images/Attritio_Rate.png)
+
+![Attrition Rate Chart](images/Attrition_Rate.png)
 
 - The Information Technology department represents the largest workforce with 36 employees, while Finance has the smallest workforce with 17 employees. These differences provide useful context for workforce planning and resource allocation.
+
 ![Employee Distribution Chart](images/Total_Employees.png)
 
 - Finance records the highest average salary (≈ 87,939), whereas Operations records the lowest average salary (≈ 79,787). These differences may reflect varying job complexity, departmental responsibilities, and compensation policies.
+
 ![Employees Salary](images/Employees_Salary.png)
 
 - Employees classified as Resigned recorded the highest average performance scores, suggesting that high-performing talent may be leaving the organization. Although additional investigation is required to determine the underlying causes, this trend highlights a potential retention challenge.
+
 ![Perfomance_Status](images/Perfomance_status.png)
 
-The projected annual bonus payout of approximately 496,463 demonstrates a significant investment in performance-based compensation, with higher-performing employees receiving the largest share of bonus allocations.
+- The projected annual bonus payout of approximately 496,463 demonstrates a significant investment in performance-based compensation, with higher-performing employees receiving the largest share of bonus allocations.
+
 ![Bonus](images/Bonus.png)
 
 Employees have an average tenure of 6.44 years, reflecting a workforce with moderate organizational experience and valuable institutional knowledge.
